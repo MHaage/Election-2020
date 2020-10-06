@@ -2,7 +2,7 @@
 ## Some punchline
 
 
-# Recent Election News
+# [Recent Election News](/recent_news.md)
 
 ## Candidates
 ### Trump
