@@ -2,7 +2,7 @@ Jorgensen
 # Jo Jorgensen 
 
 
-![Jo Jorgesen pictue[(jo990000.jpg)
+![Jo Jorgesen pictue](jo990000.jpg)
 
 
 
