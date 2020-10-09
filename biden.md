@@ -1,6 +1,6 @@
 Biden
 # Joe biden
-
+![Election](/I HATE YOU.jpeg)
 
 # motto
 ### Restore The Soul of America Our best days still lie ahead This is America We are America, second to none Anything is possible No Malarkey! Build Back Better Unite for a Better America
