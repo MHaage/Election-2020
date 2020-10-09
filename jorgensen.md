@@ -1,6 +1,11 @@
 Jorgensen
 # Jo Jorgensen 
 
+
+![Jo Jorgesen pictue[(https://news.bitcoin.com/wp-content/uploads/2020/06/jo990000-551x420.jpg)
+
+
+
 ## Motto 
   ### Break free from big goverment the first ones free real change for real people, I'm with her she's with us! Let her speak!!
 
