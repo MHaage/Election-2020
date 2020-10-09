@@ -4,7 +4,7 @@
 
 # motto
 ### Restore The Soul of America Our best days still lie ahead This is America We are America, second to none Anything is possible No Malarkey! Build Back Better Unite for a Better America
-# Platform
+# Platform 
 
 ### Capital punishment. Since June 20, 2019, Biden opposes capital punishment. Biden supports legislation to eliminate the capital punishment at the federal level, and incentivize states to abolish capital punishment. He supports individuals on death row instead serving life sentences without probation or parole.
 # Backround
