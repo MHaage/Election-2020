@@ -2,7 +2,7 @@ Jorgensen
 # Jo Jorgensen 
 
 
-![Jo Jorgesen pictue[(https://news.bitcoin.com/wp-content/uploads/2020/06/jo990000-551x420.jpg)
+![Jo Jorgesen pictue[(jo990000.jpg)
 
 
 
