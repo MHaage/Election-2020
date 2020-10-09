@@ -11,4 +11,4 @@ Jorgensen
 ### Jo Jorgenson is an American academic and a libertarian political activist. She was born May 1, 1957 in Libertyville, Illinois. Jo had attended Baylor University to recive her B.S. in Psychology followed by a Master's in Administration from Southern Methodist University. Finally she attended Clemson University reciving a Ph.D. in industrial and Organizational Psychology after becoming part owner and President of Digitech, Inc. In 1992 Jo Jorgensen ran for the United States House of Representatives election. She placed overall third with a 2.2% of the total vote. Jo Jorgensen filed with the FEC to be able to run for presidential elcetion in 2020 on August 13, 2019. Jo offically became the Libertarian presidental nominee on May 23, 2020, making her the fisrt women to be a Libertarian nominee, and the only female presidential canidate of 2020 with ballet access to over 270 electoral votes. 
 
 
-[Jo Jorgensons Oficall Page](https://jo20.com)
+[Jo Jorgensons Official Page](https://jo20.com)
