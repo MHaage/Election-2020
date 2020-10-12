@@ -18,4 +18,6 @@ Jorgensen
 
 
 [Jo Jorgensons Official Page](https://jo20.com)
-[Home Page](/patriotic.md) 
+
+
+[Home Page](/README.md) 
