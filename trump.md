@@ -1,6 +1,6 @@
 Trump
 # Donald J. Trump 
-![trump](Trump2020.jpg)
+![trump](Trump.jpg)
 ## motto
 # Keep america great.
 
