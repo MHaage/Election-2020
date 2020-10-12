@@ -9,6 +9,7 @@ There's nothing regarding primaries in the US Constitution, so the game play is 
 
 
 ### Here is an article that is showing the different votes in different states 
+!(election1)[/
 ## [Voting in states](https://www.politico.com/amp/news/2020/10/12/biden-trump-2020-election-night-428856) 
 
 ### In this article it is stating how voting in the mail could effect the election for Trump
