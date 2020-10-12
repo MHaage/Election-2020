@@ -1,8 +1,8 @@
 
-# Joe biden
+# Joe R. Biden
 ![Biden](/biden.jpeg)
 
-# motto
+# Motto
 ### Restore The Soul of America Our best days still lie ahead This is America We are America, second to none Anything is possible No Malarkey! Build Back Better Unite for a Better America
 # Platform 
 
@@ -11,3 +11,4 @@
 ### Joe Biden is a 77 year old man who is a father of four and his kids' names are Hunter Biden, Ashley Biden, Beau Biden, Naomi Christina Biden. Joe Biden went to college at the Collage of Law-Syracuse University and to the University of Delawere. His spouse's name is Jill Biden and his ex-spouse's name is Neilia Hunter.
 ## link to his campage page
 ### https://joebiden.com/#
+### [home page](/README.md)
