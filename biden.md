@@ -13,3 +13,4 @@ Joe Biden is a 77 year old man who is a father of four and his kids' names are H
 ## [Link](https://joebiden.com/#) to Biden's campaign page
  
 ### [Home Page](/README.md)
+![JOE](/JOE.jpeg)
