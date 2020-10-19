@@ -1,4 +1,3 @@
-Trump
 # Donald J. Trump 
 ![trump](Trump.jpg)
 ## Motto
